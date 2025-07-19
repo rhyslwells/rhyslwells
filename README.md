@@ -9,7 +9,6 @@ On my [Blog](https://rhyslwells.github.io/), I’ve shared advice I wish I had k
 Feel free to explore my projects on GitHub, check out my blog or the Data Archive, or get in touch!
 
 - 🗣 Connect with me on [LinkedIn](https://www.linkedin.com/in/rhyslwells/)  
-- 💬 To start an engaging conversation, ask me about: *The Stormlight Archive*  
+- 💬 To start a conversation, ask me about: *The Stormlight Archive*  
 - ⚡ Fun fact: I have a tattoo of a bicycle  
 
-<img width="903" height="574" alt="image" src="https://github.com/user-attachments/assets/c0db5ddf-b5c2-41f7-91fd-3329b82cb676" />
