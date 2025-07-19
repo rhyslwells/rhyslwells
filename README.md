@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm Rhys Wells, a Data Scientist who transitioned into the data field after completing my PhD. My current projects focus on learning data science and engineering topics to build a repository of well-understood concepts.
+I'm Rhys Wells, a Data Scientist who transitioned into the field after completing my PhD. My current projects focus on data science and engineering topics.
 
-To create and organize my work, I rely on tools like Obsidian to streamline my workflow and spark new ideas. My "Second Brain" is the [Data Archive](https://rhyslwells.github.io/Data-Archive/), where I manage all of this knowledge. In the Data Archive, I use a question-driven approach to guide my curiosity and deepen my understanding. This evolving resource allows for interactive and contextual exploration, going beyond traditional learning methods.
+To create and organize my work, I rely on tools like Obsidian. My "Second Brain" is the [Data Archive](https://rhyslwells.github.io/Data-Archive/), where I manage all of this knowledge. In the Data Archive, I use a question-driven approach guided by curiosity. This evolving resource allows for interactive and contextual exploration.
 
-On my [Blog](https://rhyslwells.github.io/), I’ve shared advice I wish I had known earlier in my career, hoping it helps others on their own journey.
+My [Blog](https://rhyslwells.github.io/) shares formalised investigations and advice I wish I had known earlier in my career. I hope it helps others on their own journey.
 
 Feel free to explore my projects on GitHub, check out my blog or the Data Archive, or get in touch!
 
