@@ -12,3 +12,6 @@ Feel free to explore my projects on GitHub, check out my blog or the Data Archiv
 - 💬 To start a conversation, ask me about: *The Stormlight Archive*  
 - ⚡ Fun fact: I have a tattoo of a bicycle  
 
+Here is my research workflow:
+
+<img width="1137" height="783" alt="Workflow" src="https://github.com/user-attachments/assets/f7ab569c-aab4-43ca-b0a5-83cf5467adc6" />
